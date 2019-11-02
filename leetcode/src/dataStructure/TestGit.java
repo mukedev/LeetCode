@@ -5,7 +5,6 @@ public class TestGit {
     public static void main(String[] args) {
         System.out.printf("test");
         System.out.println(TestGit.add());
-        System.out.printf("...");
     }
 
     public static int add() {
