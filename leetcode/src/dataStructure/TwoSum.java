@@ -1,6 +1,6 @@
 package dataStructure;
 
-// 两个整数元素等于 target
+//
 public class TwoSum {
 
 	public static int[] twosum(int[] nums, int target) {

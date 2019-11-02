@@ -1,6 +1,6 @@
 package dataStructure;
 
-// 反转整数(leetcode提交报错)
+//
 public class Solution {
 	public static void main(String[] args) {
 		System.out.println(reversalNum(123));
