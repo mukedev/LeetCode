@@ -16,4 +16,13 @@ public class TestGit {
         return num;
     }
 
+    public static int remove() {
+        int num = 0;
+        for (int i = 0; i < 10; i++) {
+            --num;
+        }
+
+        return num;
+    }
+
 }
